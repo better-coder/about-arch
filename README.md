@@ -142,3 +142,4 @@
 - [How Uber Scales Their Real-Time Market Platform](http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html)
 - [Service Principles](https://github.com/youngsterxyf/service-principles)
 - [实施微服务，我们需要哪些基础框架？](http://www.infoq.com/cn/articles/basis-frameworkto-implement-micro-service) ***
+- [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) ***
